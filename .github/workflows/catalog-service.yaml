@@ -1,0 +1,5 @@
+#github actions file used for ci/cd during push or pull
+
+name: Catalog Service
+
+# timestamp : 1:36:40 (sivalaba yt)
